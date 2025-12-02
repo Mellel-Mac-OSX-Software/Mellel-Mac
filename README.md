@@ -9,7 +9,7 @@
 
 <img src="https://pic.macked.app/static/97eebd5fd32cc380f7f509b2414092c3-1716862133.webp" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/mellel">
+<a href="https://mac-apps-install.github.io/.github/mellel">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 
